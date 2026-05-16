@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm Suraj 👋</h1>
+<h1 align="center">Hey there, I'm👋</h1>
 
 <p align="center">
   <b>Full-Stack Developer</b> · Building modern, scalable web apps
